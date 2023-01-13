@@ -1,0 +1,184 @@
+[33mcommit 0c3fe10bf1e3abf99edf8fdf5154be1a8b57e79f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Marabs <marho.jak@gmail.com>
+Date:   Fri Jan 13 19:14:37 2023 +0100
+
+    dfg
+
+[33mcommit 31fe9fa02195aed8aaeb1e96ed52bf7b45ac640d[m
+Merge: f5e627c1 5283e6fd
+Author: Marabs <marho.jak@gmail.com>
+Date:   Fri Jan 13 18:48:59 2023 +0100
+
+    first release
+
+[33mcommit f5e627c10a6669973dde5c1f9dd4e5f57923f2bc[m
+Author: Marabs <marho.jak@gmail.com>
+Date:   Fri Jan 13 18:08:47 2023 +0100
+
+    first release
+
+[33mcommit 60b8f93cbfffa7f3f466e8e4bc2283fe679d7831[m
+Author: Marabs <marho.jak@gmail.com>
+Date:   Fri Jan 13 18:04:07 2023 +0100
+
+    first release
+
+[33mcommit 2e11b935160ecb24a11d004db05f5e795fbd4c6b[m
+Author: Marabs <marho.jak@gmail.com>
+Date:   Fri Jan 13 17:52:48 2023 +0100
+
+    first release
+
+[33mcommit 06a49f3b5699dfecd5fb45e10967d2053d61a622[m
+Author: Marabs <marho.jak@gmail.com>
+Date:   Fri Jan 13 17:36:53 2023 +0100
+
+            public/log.png
+            public/manifest.json
+            public/robots.txt
+            src/Images/
+            src/Main.jsx
+            src/Pages/
+
+[33mcommit 7327d15ce1172e82dbe19ee21e6eb0bd2c7a2c3e[m
+Author: Marabs <Marho.jak@gmail.com>
+Date:   Wed Dec 28 10:26:27 2022 +0100
+
+    updsate
+
+[33mcommit 5283e6fd31ed17a11d4d99285a67e2a809e4f8ae[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Marabs <Marho.jak@gmail.com>
+Date:   Wed Dec 28 09:03:20 2022 +0100
+
+    update
+
+[33mcommit 5845c7ac833303892112d7352427faa7c3cc2169[m
+Author: Marabs <Marho.jak@gmail.com>
+Date:   Wed Dec 28 09:03:20 2022 +0100
+
+    update
+
+[33mcommit bde6c4d46a745cf2088a55e61c2998df57f17109[m
+Author: Marabs <Marho.jak@gmail.com>
+Date:   Fri Dec 16 11:00:48 2022 +0100
+
+    up
+
+[33mcommit c09380628a64a76d19f65ef9b4bce52df55d1e7b[m
+Author: Marabs <Marho.jak@gmail.com>
+Date:   Fri Dec 16 11:00:48 2022 +0100
+
+    up
+
+[33mcommit bfd61e9893d0f7665b34ac169a5472274d465b1b[m
+Author: Marabs <Marho.jak@gmail.com>
+Date:   Tue Dec 13 19:30:56 2022 +0100
+
+    up
+
+[33mcommit 963aa2d2e92d01dd6f5f56ef1a3f558de5b71e3f[m
+Author: Marabs <Marho.jak@gmail.com>
+Date:   Tue Dec 13 19:30:56 2022 +0100
+
+    up
+
+[33mcommit 923e470955924e6f575c5829bcff44435761fe10[m
+Author: Marabs <Marho.jak@gmail.com>
+Date:   Tue Dec 13 19:22:26 2022 +0100
+
+    New Project
+
+[33mcommit 50411e0753e3ad6d6cbb1ea34c25da01a9b30731[m
+Author: Marabs <Marho.jak@gmail.com>
+Date:   Tue Dec 13 19:22:26 2022 +0100
+
+    New Project
+
+[33mcommit dffee614ad7d0efb288c1d513725078225b29d50[m
+Author: Marabs <Marho.jak@gmail.com>
+Date:   Mon Dec 5 14:24:06 2022 +0100
+
+    update
+
+[33mcommit a4679cc2af882588f9b11b3c887b94b3def4e3c9[m
+Author: Marabs <Marho.jak@gmail.com>
+Date:   Mon Dec 5 14:24:06 2022 +0100
+
+    update
+
+[33mcommit 76aa1dba7d7b1a38b54fbb9f005b45d503f06189[m
+Author: Marabs <Marho.jak@gmail.com>
+Date:   Fri Oct 14 12:33:20 2022 +0100
+
+    update
+
+[33mcommit 5c85ec69c41670007f45e37370ee1de5c8d27094[m
+Author: Marabs <Marho.jak@gmail.com>
+Date:   Fri Oct 14 12:33:20 2022 +0100
+
+    update
+
+[33mcommit 3a5c7dcfff131769a0b3922ae6c0c4f333cb1fe9[m[33m ([m[1;31morigin/pra[m[33m)[m
+Author: Mbrimes <89321993+Mbrimes@users.noreply.github.com>
+Date:   Fri Oct 14 07:59:24 2022 +0100
+
+    Update index.css
+    
+    update
+
+[33mcommit 6b9ee6a171faec49e353ebf12f3f4970a96a5220[m
+Author: Mbrimes <89321993+Mbrimes@users.noreply.github.com>
+Date:   Fri Oct 14 07:59:24 2022 +0100
+
+    Update index.css
+    
+    update
+
+[33mcommit ee3592478b86cac2d82d261a8a0c98181a7d8a5a[m
+Merge: 12e799d7 68b17b1e
+Author: Marabs <Marho.jak@gmail.com>
+Date:   Thu Oct 13 17:33:34 2022 +0100
+
+    merge
+
+[33mcommit 68b17b1e15334cae92e6b169552762b733646a36[m
+Author: Marabs <Marho.jak@gmail.com>
+Date:   Thu Oct 13 17:27:12 2022 +0100
+
+    love
+
+[33mcommit 12e799d75036021851cc5d60c1e6226f77dfedb8[m
+Author: Marabs <Marho.jak@gmail.com>
+Date:   Thu Oct 13 17:21:23 2022 +0100
+
+    updates
+
+[33mcommit cfcf0577cafa234a0c8e4ec106cb20d38a0350d0[m
+Author: Marabs <Marho.jak@gmail.com>
+Date:   Thu Oct 13 17:18:48 2022 +0100
+
+    update
+
+[33mcommit b5daebbe6284bb3371c2a23fc341af2c91b888e4[m
+Author: Marabs <Marho.jak@gmail.com>
+Date:   Thu Oct 13 17:14:29 2022 +0100
+
+    updated
+
+[33mcommit 169fd26b1e9ef4966e5d24342fb85cc8f378b250[m
+Author: Marabs <Marho.jak@gmail.com>
+Date:   Thu Oct 13 17:09:06 2022 +0100
+
+    updated
+
+[33mcommit ae7d8e6206f2a144054705c54cfacc54aa38df5f[m
+Author: Marabs <Marho.jak@gmail.com>
+Date:   Thu Oct 13 16:58:11 2022 +0100
+
+    Updated
+
+[33mcommit 0ae10766766fe1c40d28f9b0747b7dfaa9b2755b[m
+Author: Marabs <Marho.jak@gmail.com>
+Date:   Thu Oct 13 16:19:40 2022 +0100
+
+    my first project on react.js
