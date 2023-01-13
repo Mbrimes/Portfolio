@@ -21,8 +21,8 @@ Created my portfolio website which is responsive using React.js and Tailwind CSS
 
 ### Links
 
-- Solution URL: [https://github.com/Mbrimes/Naijalink-Clone.git](https://github.com/Mbrimes/Naijalink-Clone.git)
-- Live Site URL: [https://naijalink-clone.netlify.app/](https://naijalink-clone.netlify.app/)
+- Solution URL: [https://github.com/Mbrimes/Portfolio.git ](https://github.com/Mbrimes/Portfolio.git )
+- Live Site URL: [https://marabsportfolio.netlify.app/](https://marabsportfolio.netlify.app/)
 
 ### My process
 
